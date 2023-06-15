@@ -1,0 +1,29 @@
+.bgImg1{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover; 
+    text-align: center;
+    height: 600px;
+    width: 500px;
+    padding: 10rem;
+}
+ .bgImg2{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    text-align: center;
+    padding: 10rem;
+    height: 600px;
+    width: 500px;
+}
+.but-border{
+    border: 3px solid white;
+    border-radius: 5px;
+    height: 70px;
+    width:210px;
+}
+.but-border1{
+    border: 3px solid white;
+    border-radius: 5px;
+    height: 70px;
+    width:210px; 
+    margin-left: 250px;
+}

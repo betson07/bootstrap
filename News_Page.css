@@ -1,0 +1,12 @@
+.bg-container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.card{
+    margin-top: 2px;
+}
+p{
+    color: #323f4b;
+}

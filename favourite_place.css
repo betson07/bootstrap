@@ -1,0 +1,15 @@
+.bg-container{
+    background-image: url('https://pe-images.s3.amazonaws.com/photo-effects/cc/transparent-type-area/image-showing-through-layer-photoshop.jpg');
+    background-size: cover;
+    }
+.card{
+     background-color: white;
+     border-radius: 20px;
+}
+.image{
+    margin-top: 10px;
+}
+.div-1{
+    width: 1200px;
+}
+

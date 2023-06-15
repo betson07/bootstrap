@@ -1,0 +1,30 @@
+h1{
+    color: rgb(33, 33, 124);
+}
+h2{
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg-color{
+    background-color: rgb(141, 217, 247);
+    color:rgb(67, 136, 163);
+    height: 150px;
+    font-size:x-large;
+    font-weight: 900;
+    text-align: justify;
+    margin-left: 20px;
+    /* margin-top: 10px; */
+}
+.bg-color1{
+    background-color: rgb(60, 60, 114);
+    height: 80px;
+    width:90vw ;
+    font-style: italic;
+    font-size: larger;
+    color: gray;
+    font-weight: bold;
+    }
+p{
+    padding: 30px;
+}

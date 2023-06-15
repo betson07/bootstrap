@@ -1,0 +1,11 @@
+.container{
+    background-color: grey;
+    /* height: 500px; */
+}
+.blue-text{
+    color: rgb(61, 61, 158);
+}
+#description{
+    font-size: 20px;
+    font-weight: bold;
+}

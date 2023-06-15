@@ -1,0 +1,23 @@
+.btn-color{
+    color: blue;
+    font-size: 40px;
+}
+.card-img-top{
+    border-top-right-radius: 5px;
+    border-top-left-radius:5px ;
+}
+.card-title{
+    color:gray;
+    font-size: 40px;
+}
+.card-text{
+    font-size: 40px;
+}
+.btn-col{
+    margin-top: 40px;
+    margin-left: 500px;
+    background-color: rgb(41, 41, 107);
+    width: 250px;
+    border-radius: 10px;
+
+}

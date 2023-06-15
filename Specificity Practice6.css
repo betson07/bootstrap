@@ -1,0 +1,20 @@
+.black-text{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.green-text{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 35px;
+}
+#orangeText{
+    background-color: orange;
+    text-align: center;
+    font-size: 35px;
+}
+.black-text{
+    background-color:pink !important ;
+    color: black !important;
+    }

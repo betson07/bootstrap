@@ -1,0 +1,43 @@
+nav{
+    position: sticky;
+    top:0;
+    left:0;
+}
+.align-center{
+    background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:43rem;
+    text-align: center;
+    color:white;
+    font-size: larger;
+    padding: 200px;
+}
+.image{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.about{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqK7EGAy6WLFea24gU35dfBYnStur-qY1BH6NSZTTl&s');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 43rem;
+    text-align: center;
+    color: white;
+    }
+.align-text{
+    padding: 200px;
+}
+.ImageSize{
+    height: 45rem;
+    margin-bottom: -50px;
+    margin-top: -50px;
+} 
+.bg-image{
+    background-image: url('https://ryansechrest.com/content/images/2022/08/nodes.gif');
+    background-repeat:no-repeat ;
+    background-size: cover;
+    height: 50rem;
+}
+
+
